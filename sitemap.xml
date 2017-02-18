@@ -3,40 +3,32 @@
 
     
     <url>
-     <loc>None/</loc>
-     <lastmod>2016-05-24</lastmod>
+     <loc>/</loc>
+     <lastmod>2017-02-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>None/installation/</loc>
-     <lastmod>2016-05-24</lastmod>
+     <loc>/installation/</loc>
+     <lastmod>2017-02-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>None/usage/</loc>
-     <lastmod>2016-05-24</lastmod>
+     <loc>/contributing/</loc>
+     <lastmod>2017-02-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>None/contributing/</loc>
-     <lastmod>2016-05-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/license/</loc>
-     <lastmod>2016-05-24</lastmod>
+     <loc>/license/</loc>
+     <lastmod>2017-02-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
